@@ -1,1 +1,1 @@
-# my-courses-HTML-CSS
+# my-courses
